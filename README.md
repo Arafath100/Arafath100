@@ -1,7 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()<br>
 <h1 align="center"> Hi👋,I'm Ajil Arafath H</h1>
 
 # 💫 About Me:
 I recently completed my Bachelor of Computer Applications (BCA) and am passionately diving into the world of web development. Currently, I'm focused on mastering the MERN stack to build innovative and scalable web applications.<br>
+
 
 
 ## 🌐 Socials:
